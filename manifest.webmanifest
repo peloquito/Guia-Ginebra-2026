@@ -1,0 +1,25 @@
+{
+  "name": "Ginebra 2026 · Guía de viaje",
+  "short_name": "Ginebra 2026",
+  "description": "Guía de Ginebra, Glacier 3000 y Annecy · 24–28 septiembre 2026",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#102b3f",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
